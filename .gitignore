@@ -1,0 +1,17 @@
+# Builds
+build/
+dist/
+target/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS noise
+.idea/
+.vscode/
+.DS_Store
+
+# Captures and evidence may contain local identifiers; keep dated reports only
+captures/
+evidence-bundles/
